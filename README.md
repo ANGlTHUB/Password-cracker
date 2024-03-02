@@ -1,6 +1,6 @@
 # Simple Password Cracker
 
-This is a simple Python script for cracking passwords using a brute-force approach. It tries different combinations of characters until it finds the correct password.
+This is a simple Python script for cracking passwords using a brute-force approach. It tries different combinations of characters until it finds the correct password given .
 
 ## Usage
 
